@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|c:\\users\\nidarshannaresh\\desktop\\3u files\\orginal\\formapp\\form\\form\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|solutionrelative:form\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|c:\\users\\nidarshannaresh\\desktop\\3u files\\orginal\\formapp\\form\\form\\controllers\\emoloyercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|solutionrelative:form\\controllers\\emoloyercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|c:\\users\\nidarshannaresh\\desktop\\3u files\\orginal\\formapp\\form\\form\\dto\\clientformdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|solutionrelative:form\\dto\\clientformdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|c:\\users\\nidarshannaresh\\desktop\\3u files\\orginal\\formapp\\form\\form\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|solutionrelative:form\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|c:\\users\\nidarshannaresh\\desktop\\3u files\\orginal\\formapp\\form\\form\\core\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|solutionrelative:form\\core\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|c:\\users\\nidarshannaresh\\desktop\\3u files\\orginal\\formapp\\form\\form\\dto\\customquestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|solutionrelative:form\\dto\\customquestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|c:\\users\\nidarshannaresh\\desktop\\3u files\\orginal\\formapp\\form\\form\\core\\employerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|solutionrelative:form\\core\\employerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|c:\\users\\nidarshannaresh\\desktop\\3u files\\orginal\\formapp\\form\\form\\dto\\employerformdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|solutionrelative:form\\dto\\employerformdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|c:\\users\\nidarshannaresh\\desktop\\3u files\\orginal\\formapp\\form\\form\\dto\\personalinformationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|solutionrelative:form\\dto\\personalinformationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|c:\\users\\nidarshannaresh\\desktop\\3u files\\orginal\\formapp\\form\\form\\data\\clientformrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|solutionrelative:form\\data\\clientformrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|c:\\users\\nidarshannaresh\\desktop\\3u files\\orginal\\formapp\\form\\form\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|solutionrelative:form\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|c:\\users\\nidarshannaresh\\desktop\\3u files\\orginal\\formapp\\form\\form\\data\\emoloyeeformrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|solutionrelative:form\\data\\emoloyeeformrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|c:\\users\\nidarshannaresh\\desktop\\3u files\\orginal\\formapp\\form\\form\\data\\iclientformrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|solutionrelative:form\\data\\iclientformrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|c:\\users\\nidarshannaresh\\desktop\\3u files\\orginal\\formapp\\form\\form\\data\\iemoloyeeformrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|solutionrelative:form\\data\\iemoloyeeformrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|c:\\users\\nidarshannaresh\\desktop\\3u files\\orginal\\formapp\\form\\form\\form.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|solutionrelative:form\\form.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|c:\\users\\nidarshannaresh\\desktop\\3u files\\orginal\\formapp\\form\\form\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|solutionrelative:form\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|c:\\users\\nidarshannaresh\\desktop\\3u files\\orginal\\formapp\\form\\form\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|solutionrelative:form\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|c:\\users\\nidarshannaresh\\desktop\\3u files\\orginal\\formapp\\form\\form\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05ED7C63-A496-42A7-BC76-831D9281E179}|form\\form.csproj|solutionrelative:form\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\obj\\Debug\\net8.0\\form.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:form\\obj\\Debug\\net8.0\\form.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 18,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 382,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientFormDto.cs",
+              "DocumentMoniker": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\Dto\\ClientFormDto.cs",
+              "RelativeDocumentMoniker": "form\\Dto\\ClientFormDto.cs",
+              "ToolTip": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\Dto\\ClientFormDto.cs",
+              "RelativeToolTip": "form\\Dto\\ClientFormDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T07:57:28.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmoloyerController.cs",
+              "DocumentMoniker": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\Controllers\\EmoloyerController.cs",
+              "RelativeDocumentMoniker": "form\\Controllers\\EmoloyerController.cs",
+              "ToolTip": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\Controllers\\EmoloyerController.cs",
+              "RelativeToolTip": "form\\Controllers\\EmoloyerController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:31:04.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonalInformationDto.cs",
+              "DocumentMoniker": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\Dto\\PersonalInformationDto.cs",
+              "RelativeDocumentMoniker": "form\\Dto\\PersonalInformationDto.cs",
+              "ToolTip": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\Dto\\PersonalInformationDto.cs",
+              "RelativeToolTip": "form\\Dto\\PersonalInformationDto.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA9wAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T07:26:37.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomQuestionDto.cs",
+              "DocumentMoniker": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\Dto\\CustomQuestionDto.cs",
+              "RelativeDocumentMoniker": "form\\Dto\\CustomQuestionDto.cs",
+              "ToolTip": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\Dto\\CustomQuestionDto.cs",
+              "RelativeToolTip": "form\\Dto\\CustomQuestionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T07:24:16.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployerFormDto.cs",
+              "DocumentMoniker": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\Dto\\EmployerFormDto.cs",
+              "RelativeDocumentMoniker": "form\\Dto\\EmployerFormDto.cs",
+              "ToolTip": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\Dto\\EmployerFormDto.cs",
+              "RelativeToolTip": "form\\Dto\\EmployerFormDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T07:10:31.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientForm.cs",
+              "DocumentMoniker": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\Core\\ClientForm.cs",
+              "RelativeDocumentMoniker": "form\\Core\\ClientForm.cs",
+              "ToolTip": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\Core\\ClientForm.cs",
+              "RelativeToolTip": "form\\Core\\ClientForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:13:43.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutomapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\AutomapperProfile.cs",
+              "RelativeDocumentMoniker": "form\\AutomapperProfile.cs",
+              "ToolTip": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\AutomapperProfile.cs",
+              "RelativeToolTip": "form\\AutomapperProfile.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAvwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T07:30:02.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "form\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "form\\Controllers\\ClientController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA1wCQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T05:25:40.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployerForm.cs",
+              "DocumentMoniker": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\Core\\EmployerForm.cs",
+              "RelativeDocumentMoniker": "form\\Core\\EmployerForm.cs",
+              "ToolTip": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\Core\\EmployerForm.cs",
+              "RelativeToolTip": "form\\Core\\EmployerForm.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAxwEMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T05:28:30.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmoloyeeFormRepository.cs",
+              "DocumentMoniker": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\Data\\EmoloyeeFormRepository.cs",
+              "RelativeDocumentMoniker": "form\\Data\\EmoloyeeFormRepository.cs",
+              "ToolTip": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\Data\\EmoloyeeFormRepository.cs",
+              "RelativeToolTip": "form\\Data\\EmoloyeeFormRepository.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAswD0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:18:45.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientFormRepository.cs",
+              "DocumentMoniker": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\Data\\ClientFormRepository.cs",
+              "RelativeDocumentMoniker": "form\\Data\\ClientFormRepository.cs",
+              "ToolTip": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\Data\\ClientFormRepository.cs",
+              "RelativeToolTip": "form\\Data\\ClientFormRepository.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAwEoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T05:23:48.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IClientFormRepository.cs",
+              "DocumentMoniker": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\Data\\IClientFormRepository.cs",
+              "RelativeDocumentMoniker": "form\\Data\\IClientFormRepository.cs",
+              "ToolTip": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\Data\\IClientFormRepository.cs",
+              "RelativeToolTip": "form\\Data\\IClientFormRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T05:24:50.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\Program.cs",
+              "RelativeDocumentMoniker": "form\\Program.cs",
+              "ToolTip": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\Program.cs",
+              "RelativeToolTip": "form\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:14:14.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "form\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\appsettings.Development.json",
+              "RelativeToolTip": "form\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T13:03:46.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "form.csproj",
+              "DocumentMoniker": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\form.csproj",
+              "RelativeDocumentMoniker": "form\\form.csproj",
+              "ToolTip": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\form.csproj",
+              "RelativeToolTip": "form\\form.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-15T13:14:26.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEmoloyeeFormRepository.cs",
+              "DocumentMoniker": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\Data\\IEmoloyeeFormRepository.cs",
+              "RelativeDocumentMoniker": "form\\Data\\IEmoloyeeFormRepository.cs",
+              "ToolTip": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\Data\\IEmoloyeeFormRepository.cs",
+              "RelativeToolTip": "form\\Data\\IEmoloyeeFormRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:16:12.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "form.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\obj\\Debug\\net8.0\\form.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "form\\obj\\Debug\\net8.0\\form.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\obj\\Debug\\net8.0\\form.AssemblyInfo.cs",
+              "RelativeToolTip": "form\\obj\\Debug\\net8.0\\form.AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:21:38.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\appsettings.json",
+              "RelativeDocumentMoniker": "form\\appsettings.json",
+              "ToolTip": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\appsettings.json",
+              "RelativeToolTip": "form\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T13:55:04.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "form\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\NidarshanNaresh\\Desktop\\3u Files\\orginal\\formapp\\form\\form\\Properties\\launchSettings.json",
+              "RelativeToolTip": "form\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T13:03:34.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
